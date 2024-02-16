@@ -1,5 +1,5 @@
-# Effulgencetech-aws-cicd-project
-![CI/CD Pipeline architecture](https://github.com/Michaelgwei86/effulgencetech-aws-cicd/blob/main/effulgencetech-aws-cicd-demo.jpg)
+# EduCloud-aws-cicd-project
+![CI/CD Pipeline architecture](https://github.com/chianeng/EduCloud/blob/main/EduCloud-aws-cicd-demo.jpg)
 
 ## Infrastructure details
 1. Consists of a VPC -----> 10.0.0.0/16
